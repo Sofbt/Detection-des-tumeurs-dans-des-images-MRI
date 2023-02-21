@@ -1,5 +1,5 @@
 *.pkg filter=lfs diff=lfs merge=lfs -text
 *.exe filter=lfs diff=lfs merge=lfs -text
 *.html linguist-detectable=false
-*.TeX linguist-detectable=false
+*.toc linguist-detectable=false
 
